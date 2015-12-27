@@ -4,11 +4,9 @@ A probabilistic remailer, for reduced social anxiety.
 
 ===Prospective steps
 
-1) simple remailer on Heroku via Cloudmailin
-  1a) using an dedicated, non-cloudmailin address
+1) Gmail plugin using the Stream InboxSDK (Javascript)
 
-2) remailer sends to specifiable address
-  2a) Attaches extra content
+2) Attaches extra content
 
 3) Introduce chance of not sending message
 
