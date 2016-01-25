@@ -1,6 +1,6 @@
 {
   "name": "Werewolf Post Extension",
-  "description": "Gmail extension for noticably deliberately-unreliable mail delivery",
+  "description": "Gmail extension for noticeably deliberately-unreliable mail delivery",
   "version": "0.1",
   "content_scripts": [
     {
@@ -16,5 +16,5 @@
     "https://mail.google.com/",
     "https://inbox.google.com/"
   ],
-  "manifest_version": 1
+  "manifest_version": 3
 }
